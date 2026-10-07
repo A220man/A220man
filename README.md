@@ -15,7 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
-Browse [my public repositories](https://github.com/A220man?tab=repositories) for current work. AI portfolio projects are being developed; no unfinished project is presented here as a completed showcase.
+- [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — AI/ML experiment tracking and comparison platform calculating multi-objective Pareto frontiers, multi-seed statistical significance, and hyperparameter sensitivity.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
