@@ -15,8 +15,8 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
-- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Automated multi-factor risk scoring, role-based human-in-the-loop review, and cryptographically signed audit receipts for autonomous agent action proposals.
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — AI/ML experiment tracking and comparison platform calculating multi-objective Pareto frontiers, multi-seed statistical significance, and hyperparameter sensitivity.
+- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Automated multi-factor risk scoring, role-based human-in-the-loop review, and cryptographically signed audit receipts for autonomous agent action proposals.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
