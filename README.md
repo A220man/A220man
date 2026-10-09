@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Track release criteria and evidence, resolve blockers, obtain independent revision-bound approvals, and export auditable release notes with deterministic risk diagnostics.
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.
 - [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Normalize incident evidence into UTC timelines, correlate shared entities, measure coverage gaps and event-rate anomalies, and preserve analyst review decisions with optional aggregate-only AI advice.
 - [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Tracks document revisions and expiration, calculates impacted RAG answers from citation dependency graphs, and schedules prioritized revalidation tasks with an offline deterministic graph engine.
