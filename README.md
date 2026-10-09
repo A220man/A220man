@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Monitor ML feature pipeline source-watermark freshness, replay-safe ingestion, and auditable incident recovery with optional grounded AI advice.
 - [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Track release criteria and evidence, resolve blockers, obtain independent revision-bound approvals, and export auditable release notes with deterministic risk diagnostics.
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.
 - [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Normalize incident evidence into UTC timelines, correlate shared entities, measure coverage gaps and event-rate anomalies, and preserve analyst review decisions with optional aggregate-only AI advice.
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Image dataset quality measurement, review, clustering and calibration
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Coordinate multi-annotator span and classification tasks, calculate Cohen/Fleiss kappa and confusion matrices, and reconcile consensus with immutable audit history.
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — AI/ML experiment tracking and comparison platform calculating multi-objective Pareto frontiers, multi-seed statistical significance, and hyperparameter sensitivity.
-- [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Monitor ML feature pipeline source-watermark freshness, replay-safe ingestion, and auditable incident recovery with optional grounded AI advice.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
