@@ -15,13 +15,13 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.
 - [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Normalize incident evidence into UTC timelines, correlate shared entities, measure coverage gaps and event-rate anomalies, and preserve analyst review decisions with optional aggregate-only AI advice.
 - [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Tracks document revisions and expiration, calculates impacted RAG answers from citation dependency graphs, and schedules prioritized revalidation tasks with an offline deterministic graph engine.
 - [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Image dataset quality measurement, review, clustering and calibration
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Coordinate multi-annotator span and classification tasks, calculate Cohen/Fleiss kappa and confusion matrices, and reconcile consensus with immutable audit history.
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — AI/ML experiment tracking and comparison platform calculating multi-objective Pareto frontiers, multi-seed statistical significance, and hyperparameter sensitivity.
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Monitor ML feature pipeline source-watermark freshness, replay-safe ingestion, and auditable incident recovery with optional grounded AI advice.
-- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Automated multi-factor risk scoring, role-based human-in-the-loop review, and cryptographically signed audit receipts for autonomous agent action proposals.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
