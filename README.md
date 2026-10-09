@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Image dataset quality measurement, review, clustering and calibration
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Coordinate multi-annotator span and classification tasks, calculate Cohen/Fleiss kappa and confusion matrices, and reconcile consensus with immutable audit history.
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — AI/ML experiment tracking and comparison platform calculating multi-objective Pareto frontiers, multi-seed statistical significance, and hyperparameter sensitivity.
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Monitor ML feature pipeline source-watermark freshness, replay-safe ingestion, and auditable incident recovery with optional grounded AI advice.
