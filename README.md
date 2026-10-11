@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen workbench ryan vo](https://github.com/A220man/lumen-workbench-ryan-vo) — Work in progress: lumen-workbench-ryan-vo
 - [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Synthesizes structured native PowerPoint presentations from technical documents with span-level attribution integrity and multi-modal alignment evaluation.
 - [multi cloud inventory diff ryan vo](https://github.com/A220man/multi-cloud-inventory-diff-ryan-vo) — Multi-cloud asset normalization across AWS, GCP, and Azure with deterministic configuration drift diffing, supervised ML exposure risk classification, and reproducible benchmark evaluations.
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Monitor ML feature pipeline source-watermark freshness, replay-safe ingestion, and auditable incident recovery with optional grounded AI advice.
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.
 - [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Normalize incident evidence into UTC timelines, correlate shared entities, measure coverage gaps and event-rate anomalies, and preserve analyst review decisions with optional aggregate-only AI advice.
 - [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Tracks document revisions and expiration, calculates impacted RAG answers from citation dependency graphs, and schedules prioritized revalidation tasks with an offline deterministic graph engine.
-- [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Image dataset quality measurement, review, clustering and calibration
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
