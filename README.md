@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — Work in progress: experiment-comparison-hub-ryan-vo
 - [beacon lens ryan vo](https://github.com/A220man/beacon-lens-ryan-vo) — Work in progress: beacon-lens-ryan-vo
 - [lumen workbench ryan vo](https://github.com/A220man/lumen-workbench-ryan-vo) — Work in progress: lumen-workbench-ryan-vo
 - [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Synthesizes structured native PowerPoint presentations from technical documents with span-level attribution integrity and multi-modal alignment evaluation.
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Monitor ML feature pipeline source-watermark freshness, replay-safe ingestion, and auditable incident recovery with optional grounded AI advice.
 - [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Track release criteria and evidence, resolve blockers, obtain independent revision-bound approvals, and export auditable release notes with deterministic risk diagnostics.
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.
-- [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Normalize incident evidence into UTC timelines, correlate shared entities, measure coverage gaps and event-rate anomalies, and preserve analyst review decisions with optional aggregate-only AI advice.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
