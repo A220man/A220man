@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Work in progress: atlas-hub-ryan-vo
 - [sentinel lens ryan vo](https://github.com/A220man/sentinel-lens-ryan-vo) — Work in progress: sentinel-lens-ryan-vo
 - [multi cloud inventory diff ryan vo](https://github.com/A220man/multi-cloud-inventory-diff-ryan-vo) — Work in progress: multi-cloud-inventory-diff-ryan-vo
 - [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [atlas lens ryan vo](https://github.com/A220man/atlas-lens-ryan-vo) — Work in progress: atlas-lens-ryan-vo
 - [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Work in progress: release-readiness-board-ryan-vo
 - [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
-- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Work in progress: human-approval-console-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
