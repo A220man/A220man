@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [axiom pilot ryan vo](https://github.com/A220man/axiom-pilot-ryan-vo) — Work in progress: axiom-pilot-ryan-vo
 - [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Work in progress: image-quality-observatory-ryan-vo
 - [vector lens ryan vo](https://github.com/A220man/vector-lens-ryan-vo) — Work in progress: vector-lens-ryan-vo
 - [signal forge ryan vo](https://github.com/A220man/signal-forge-ryan-vo) — Work in progress: signal-forge-ryan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Work in progress: annotation-agreement-studio-ryan-vo
 - [lumen console ryan vo](https://github.com/A220man/lumen-console-ryan-vo) — Work in progress: lumen-console-ryan-vo
 - [orbit workbench ryan vo](https://github.com/A220man/orbit-workbench-ryan-vo) — Work in progress: orbit-workbench-ryan-vo
-- [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
