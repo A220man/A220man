@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit workbench ryan vo](https://github.com/A220man/orbit-workbench-ryan-vo) — Work in progress: orbit-workbench-ryan-vo
 - [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — Work in progress: experiment-comparison-hub-ryan-vo
 - [nexus lab ryan vo](https://github.com/A220man/nexus-lab-ryan-vo) — Work in progress: nexus-lab-ryan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [nexus foundry ryan vo](https://github.com/A220man/nexus-foundry-ryan-vo) — Work in progress: nexus-foundry-ryan-vo
 - [lumen workbench ryan vo](https://github.com/A220man/lumen-workbench-ryan-vo) — Work in progress: lumen-workbench-ryan-vo
 - [atlas engine ryan vo](https://github.com/A220man/atlas-engine-ryan-vo) — Work in progress: atlas-engine-ryan-vo
-- [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Work in progress: atlas-hub-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
