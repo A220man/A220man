@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Work in progress: human-approval-console-ryan-vo
 - [beacon hub ryan vo](https://github.com/A220man/beacon-hub-ryan-vo) — Work in progress: beacon-hub-ryan-vo
 - [beacon foundry ryan vo](https://github.com/A220man/beacon-foundry-ryan-vo) — Work in progress: beacon-foundry-ryan-vo
 - [lumen forge ryan vo](https://github.com/A220man/lumen-forge-ryan-vo) — Work in progress: lumen-forge-ryan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [axiom forge ryan vo](https://github.com/A220man/axiom-forge-ryan-vo) — Work in progress: axiom-forge-ryan-vo
 - [tensor lens ryan vo](https://github.com/A220man/tensor-lens-ryan-vo) — Work in progress: tensor-lens-ryan-vo
 - [prism console ryan vo](https://github.com/A220man/prism-console-ryan-vo) — Work in progress: prism-console-ryan-vo
-- [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Work in progress: knowledge-freshness-monitor-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
