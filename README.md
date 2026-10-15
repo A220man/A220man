@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Work in progress: release-readiness-board-ryan-vo
 - [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
 - [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
 - [prism station ryan vo](https://github.com/A220man/prism-station-ryan-vo) — Work in progress: prism-station-ryan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [beacon hub ryan vo](https://github.com/A220man/beacon-hub-ryan-vo) — Work in progress: beacon-hub-ryan-vo
 - [beacon foundry ryan vo](https://github.com/A220man/beacon-foundry-ryan-vo) — Work in progress: beacon-foundry-ryan-vo
 - [lumen forge ryan vo](https://github.com/A220man/lumen-forge-ryan-vo) — Work in progress: lumen-forge-ryan-vo
-- [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Work in progress: incident-timeline-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
