@@ -12,6 +12,15 @@ I am building an AI and machine learning portfolio through practical experiments
 
 My research interests include **artificial superintelligence (ASI)** and the questions it raises about reasoning, alignment, evaluation, and safe autonomy. This is a research direction, not a claim that these projects implement superintelligence.
 
+<!-- portfolio-contributions:start -->
+## Merged open-source contributions
+
+Accepted contributions to other projects. Each link shows the patch, review discussion, and merge record.
+
+- **breferrari/obsidian-mind** — [fix: honor camelCase Stop hook re-entry flags (#325)](https://github.com/breferrari/obsidian-mind/pull/325) · merged 2026-10-11
+
+<!-- portfolio-contributions:end -->
+
 ## Public projects
 
 <!-- portfolio-projects:start -->
