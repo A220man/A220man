@@ -30,6 +30,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [multi cloud inventory diff ryan vo](https://github.com/A220man/multi-cloud-inventory-diff-ryan-vo) — Work in progress: multi-cloud-inventory-diff-ryan-vo
 - [lumen engine ryan vo](https://github.com/A220man/lumen-engine-ryan-vo) — Work in progress: lumen-engine-ryan-vo
 - [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
 - [atlas observatory ryan vo](https://github.com/A220man/atlas-observatory-ryan-vo) — Work in progress: atlas-observatory-ryan-vo
@@ -37,7 +38,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon station ryan vo](https://github.com/A220man/beacon-station-ryan-vo) — Work in progress: beacon-station-ryan-vo
 - [atlas lens ryan vo](https://github.com/A220man/atlas-lens-ryan-vo) — Work in progress: atlas-lens-ryan-vo
 - [tensor studio ryan vo](https://github.com/A220man/tensor-studio-ryan-vo) — Work in progress: tensor-studio-ryan-vo
-- [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Work in progress: release-readiness-board-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
