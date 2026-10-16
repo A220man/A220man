@@ -30,6 +30,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt lab ryan vo](https://github.com/A220man/cobalt-lab-ryan-vo) — Work in progress: cobalt-lab-ryan-vo
 - [atlas engine ryan vo](https://github.com/A220man/atlas-engine-ryan-vo) — Work in progress: atlas-engine-ryan-vo
 - [beacon lab ryan vo](https://github.com/A220man/beacon-lab-ryan-vo) — Work in progress: beacon-lab-ryan-vo
 - [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Work in progress: atlas-hub-ryan-vo
@@ -37,7 +38,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [multi cloud inventory diff ryan vo](https://github.com/A220man/multi-cloud-inventory-diff-ryan-vo) — Work in progress: multi-cloud-inventory-diff-ryan-vo
 - [lumen engine ryan vo](https://github.com/A220man/lumen-engine-ryan-vo) — Work in progress: lumen-engine-ryan-vo
 - [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
-- [atlas observatory ryan vo](https://github.com/A220man/atlas-observatory-ryan-vo) — Work in progress: atlas-observatory-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
