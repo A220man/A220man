@@ -30,6 +30,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
 - [atlas observatory ryan vo](https://github.com/A220man/atlas-observatory-ryan-vo) — Work in progress: atlas-observatory-ryan-vo
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Work in progress: feature-freshness-monitor-ryan-vo
 - [beacon station ryan vo](https://github.com/A220man/beacon-station-ryan-vo) — Work in progress: beacon-station-ryan-vo
@@ -37,7 +38,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor studio ryan vo](https://github.com/A220man/tensor-studio-ryan-vo) — Work in progress: tensor-studio-ryan-vo
 - [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Work in progress: release-readiness-board-ryan-vo
 - [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
-- [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
