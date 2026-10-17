@@ -30,6 +30,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon lens ryan vo](https://github.com/A220man/beacon-lens-ryan-vo) — Work in progress: beacon-lens-ryan-vo
 - [lumen studio ryan vo](https://github.com/A220man/lumen-studio-ryan-vo) — Work in progress: lumen-studio-ryan-vo
 - [nexus foundry ryan vo](https://github.com/A220man/nexus-foundry-ryan-vo) — Work in progress: nexus-foundry-ryan-vo
 - [nexus observatory ryan vo](https://github.com/A220man/nexus-observatory-ryan-vo) — Work in progress: nexus-observatory-ryan-vo
@@ -37,7 +38,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt lab ryan vo](https://github.com/A220man/cobalt-lab-ryan-vo) — Work in progress: cobalt-lab-ryan-vo
 - [atlas engine ryan vo](https://github.com/A220man/atlas-engine-ryan-vo) — Work in progress: atlas-engine-ryan-vo
 - [beacon lab ryan vo](https://github.com/A220man/beacon-lab-ryan-vo) — Work in progress: beacon-lab-ryan-vo
-- [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Work in progress: atlas-hub-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
