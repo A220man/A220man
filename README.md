@@ -17,6 +17,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **akitaonrails/ai-memory** — [Fix stale Windows support claims and 3.0 unreleased label in comparison docs (#1376)](https://github.com/akitaonrails/ai-memory/pull/1376)
 - **tester-army/e2e** — [fix(agent): classify a content-filter refusal as MODEL_REFUSED (#973)](https://github.com/tester-army/e2e/pull/973)
 - **cathrynlavery/diagram-design** — [feat(style-guide): add RTL and Arabic label support with template-rtl (#353)](https://github.com/cathrynlavery/diagram-design/pull/353)
 - **cloudflare/cloudflare-os** — [Escape look-alike whitespace in action descriptions (#711)](https://github.com/cloudflare/cloudflare-os/pull/711)
