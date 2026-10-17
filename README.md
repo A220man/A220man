@@ -17,8 +17,8 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
-- **cathrynlavery/diagram-design** — [feat(style-guide): add RTL and Arabic label support with template-rtl (#353)](https://github.com/cathrynlavery/diagram-design/pull/353)
 - **tester-army/e2e** — [fix(agent): classify a content-filter refusal as MODEL_REFUSED (#973)](https://github.com/tester-army/e2e/pull/973)
+- **cathrynlavery/diagram-design** — [feat(style-guide): add RTL and Arabic label support with template-rtl (#353)](https://github.com/cathrynlavery/diagram-design/pull/353)
 - **cloudflare/cloudflare-os** — [Escape look-alike whitespace in action descriptions (#711)](https://github.com/cloudflare/cloudflare-os/pull/711)
 - **danyuchn/asd-ste100-skill** — [docs: add optional rewrite-fidelity check to Process step (#23)](https://github.com/danyuchn/asd-ste100-skill/pull/23)
 - **reconurge/flowsint** — [fix: match graph node hitboxes to rendered shapes and zoom (#239)](https://github.com/reconurge/flowsint/pull/239)
