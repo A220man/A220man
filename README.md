@@ -17,9 +17,9 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **tester-army/e2e** — [fix(agent): classify a content-filter refusal as MODEL_REFUSED (#973)](https://github.com/tester-army/e2e/pull/973)
 - **ifixai-ai/iFixAi** — [Fix P08 naive timestamp comparison TypeError — ensure _parse_timestamp returns timezone-aware UTC (#325)](https://github.com/ifixai-ai/iFixAi/pull/325)
 - **akitaonrails/ai-memory** — [Fix stale Windows support claims and 3.0 unreleased label in comparison docs (#1376)](https://github.com/akitaonrails/ai-memory/pull/1376)
-- **tester-army/e2e** — [fix(agent): classify a content-filter refusal as MODEL_REFUSED (#973)](https://github.com/tester-army/e2e/pull/973)
 - **cathrynlavery/diagram-design** — [feat(style-guide): add RTL and Arabic label support with template-rtl (#353)](https://github.com/cathrynlavery/diagram-design/pull/353)
 - **cloudflare/cloudflare-os** — [Escape look-alike whitespace in action descriptions (#711)](https://github.com/cloudflare/cloudflare-os/pull/711)
 - **danyuchn/asd-ste100-skill** — [docs: add optional rewrite-fidelity check to Process step (#23)](https://github.com/danyuchn/asd-ste100-skill/pull/23)
