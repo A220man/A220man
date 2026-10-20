@@ -32,6 +32,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
 - [vector studio ryan vo](https://github.com/A220man/vector-studio-ryan-vo) — Work in progress: vector-studio-ryan-vo
 - [sentinel lens ryan vo](https://github.com/A220man/sentinel-lens-ryan-vo) — Work in progress: sentinel-lens-ryan-vo
 - [signal console ryan vo](https://github.com/A220man/signal-console-ryan-vo) — Work in progress: signal-console-ryan-vo
@@ -39,7 +40,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — Work in progress: experiment-comparison-hub-ryan-vo
 - [vector hub ryan vo](https://github.com/A220man/vector-hub-ryan-vo) — Web-based agent orchestrator for managing fleets of coding agents (Claude Code, Codex, OpenCode) across isolated git worktrees with usage tracking.
 - [nexus lab ryan vo](https://github.com/A220man/nexus-lab-ryan-vo) — Work in progress: nexus-lab-ryan-vo
-- [signal observatory ryan vo](https://github.com/A220man/signal-observatory-ryan-vo) — Work in progress: signal-observatory-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
