@@ -32,6 +32,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism foundry ryan vo](https://github.com/A220man/prism-foundry-ryan-vo) — Work in progress: prism-foundry-ryan-vo
 - [vector lens ryan vo](https://github.com/A220man/vector-lens-ryan-vo) — Work in progress: vector-lens-ryan-vo
 - [prism pilot ryan vo](https://github.com/A220man/prism-pilot-ryan-vo) — Work in progress: prism-pilot-ryan-vo
 - [signal forge ryan vo](https://github.com/A220man/signal-forge-ryan-vo) — Work in progress: signal-forge-ryan-vo
@@ -39,7 +40,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor workbench ryan vo](https://github.com/A220man/tensor-workbench-ryan-vo) — Work in progress: tensor-workbench-ryan-vo
 - [cobalt pilot ryan vo](https://github.com/A220man/cobalt-pilot-ryan-vo) — Work in progress: cobalt-pilot-ryan-vo
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Work in progress: annotation-agreement-studio-ryan-vo
-- [sentinel studio ryan vo](https://github.com/A220man/sentinel-studio-ryan-vo) — Work in progress: sentinel-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
