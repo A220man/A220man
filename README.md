@@ -32,6 +32,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit foundry ryan vo](https://github.com/A220man/orbit-foundry-ryan-vo) — Work in progress: orbit-foundry-ryan-vo
 - [tensor workbench ryan vo](https://github.com/A220man/tensor-workbench-ryan-vo) — Work in progress: tensor-workbench-ryan-vo
 - [cobalt pilot ryan vo](https://github.com/A220man/cobalt-pilot-ryan-vo) — Work in progress: cobalt-pilot-ryan-vo
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Work in progress: annotation-agreement-studio-ryan-vo
@@ -39,7 +40,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [lumen console ryan vo](https://github.com/A220man/lumen-console-ryan-vo) — Work in progress: lumen-console-ryan-vo
 - [prism studio ryan vo](https://github.com/A220man/prism-studio-ryan-vo) — Work in progress: prism-studio-ryan-vo
 - [orbit workbench ryan vo](https://github.com/A220man/orbit-workbench-ryan-vo) — Work in progress: orbit-workbench-ryan-vo
-- [tensor station ryan vo](https://github.com/A220man/tensor-station-ryan-vo) — Work in progress: tensor-station-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
