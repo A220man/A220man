@@ -32,6 +32,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal engine ryan vo](https://github.com/A220man/signal-engine-ryan-vo) — Work in progress: signal-engine-ryan-vo
 - [prism console ryan vo](https://github.com/A220man/prism-console-ryan-vo) — Work in progress: prism-console-ryan-vo
 - [nexus console ryan vo](https://github.com/A220man/nexus-console-ryan-vo) — Work in progress: nexus-console-ryan-vo
 - [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Work in progress: knowledge-freshness-monitor-ryan-vo
@@ -39,7 +40,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon console ryan vo](https://github.com/A220man/beacon-console-ryan-vo) — Work in progress: beacon-console-ryan-vo
 - [tensor console ryan vo](https://github.com/A220man/tensor-console-ryan-vo) — Work in progress: tensor-console-ryan-vo
 - [orbit station ryan vo](https://github.com/A220man/orbit-station-ryan-vo) — Work in progress: orbit-station-ryan-vo
-- [prism observatory ryan vo](https://github.com/A220man/prism-observatory-ryan-vo) — Work in progress: prism-observatory-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
