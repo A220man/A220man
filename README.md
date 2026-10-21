@@ -32,6 +32,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit workbench ryan vo](https://github.com/A220man/orbit-workbench-ryan-vo) — Work in progress: orbit-workbench-ryan-vo
 - [tensor station ryan vo](https://github.com/A220man/tensor-station-ryan-vo) — Work in progress: tensor-station-ryan-vo
 - [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
 - [vector studio ryan vo](https://github.com/A220man/vector-studio-ryan-vo) — Work in progress: vector-studio-ryan-vo
@@ -39,7 +40,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [signal console ryan vo](https://github.com/A220man/signal-console-ryan-vo) — Work in progress: signal-console-ryan-vo
 - [signal station ryan vo](https://github.com/A220man/signal-station-ryan-vo) — Work in progress: signal-station-ryan-vo
 - [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — Work in progress: experiment-comparison-hub-ryan-vo
-- [vector hub ryan vo](https://github.com/A220man/vector-hub-ryan-vo) — Web-based agent orchestrator for managing fleets of coding agents (Claude Code, Codex, OpenCode) across isolated git worktrees with usage tracking.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
