@@ -32,6 +32,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism studio ryan vo](https://github.com/A220man/prism-studio-ryan-vo) — Work in progress: prism-studio-ryan-vo
 - [orbit workbench ryan vo](https://github.com/A220man/orbit-workbench-ryan-vo) — Work in progress: orbit-workbench-ryan-vo
 - [tensor station ryan vo](https://github.com/A220man/tensor-station-ryan-vo) — Work in progress: tensor-station-ryan-vo
 - [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
@@ -39,7 +40,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel lens ryan vo](https://github.com/A220man/sentinel-lens-ryan-vo) — Work in progress: sentinel-lens-ryan-vo
 - [signal console ryan vo](https://github.com/A220man/signal-console-ryan-vo) — Work in progress: signal-console-ryan-vo
 - [signal station ryan vo](https://github.com/A220man/signal-station-ryan-vo) — Work in progress: signal-station-ryan-vo
-- [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — Work in progress: experiment-comparison-hub-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
