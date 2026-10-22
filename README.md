@@ -33,6 +33,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [atlas lens ryan vo](https://github.com/A220man/atlas-lens-ryan-vo) — Work in progress: atlas-lens-ryan-vo
 - [cobalt console ryan vo](https://github.com/A220man/cobalt-console-ryan-vo) — Work in progress: cobalt-console-ryan-vo
 - [tensor studio ryan vo](https://github.com/A220man/tensor-studio-ryan-vo) — Work in progress: tensor-studio-ryan-vo
 - [sentinel console ryan vo](https://github.com/A220man/sentinel-console-ryan-vo) — Work in progress: sentinel-console-ryan-vo
@@ -40,7 +41,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [atlas station ryan vo](https://github.com/A220man/atlas-station-ryan-vo) — Work in progress: atlas-station-ryan-vo
 - [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
 - [tensor pilot ryan vo](https://github.com/A220man/tensor-pilot-ryan-vo) — Work in progress: tensor-pilot-ryan-vo
-- [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
