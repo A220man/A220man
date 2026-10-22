@@ -1,16 +1,16 @@
-# Ryan Vo | AI & Machine Learning
+# Ryan Vo | Data Science, Machine Learning & AI
 
-I am building an AI and machine learning portfolio through practical experiments in agents, model evaluation, retrieval, and intelligent software.
+I'm Ryan Vo. I'm passionate about data science, machine learning, and the possibilities of artificial superintelligence (ASI). I enjoy exploring how data becomes insight, how models learn and reason, and how intelligent systems can solve practical problems.
 
-## Focus
+## Interests
 
-- **AI agents and reasoning:** tool use, planning, memory, controlled workflows, and evaluation.
-- **Machine learning:** data quality, reproducible experiments, calibration, drift, and useful baselines.
-- **LLMs and RAG:** retrieval quality, grounded answers, citations, and provider-independent applications.
-- **AI safety and security:** permission boundaries, adversarial testing, auditability, and human review.
-- **AI infrastructure and MLOps:** deployable services, observability, model lifecycle, and cost measurement.
+- **Data science:** statistical analysis, visualization, experimentation, and finding patterns in complex datasets.
+- **Machine learning:** predictive models, deep learning, reproducible experiments, and model evaluation.
+- **AI agents and LLMs:** reasoning, planning, memory, retrieval, and useful tools built around language models.
+- **Artificial superintelligence:** exploring the research questions around advanced intelligence, alignment, and safe autonomy.
+- **AI engineering:** data pipelines, MLOps, observability, and turning experiments into usable applications.
 
-My research interests include **artificial superintelligence (ASI)** and the questions it raises about reasoning, alignment, evaluation, and safe autonomy. This is a research direction, not a claim that these projects implement superintelligence.
+I'm building projects, learning through experiments, and contributing to open source as I explore these interests.
 
 <!-- portfolio-contributions:start -->
 ## Contributing to
@@ -41,10 +41,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel engine ryan vo](https://github.com/A220man/sentinel-engine-ryan-vo) — Work in progress: sentinel-engine-ryan-vo
 - [tensor lens ryan vo](https://github.com/A220man/tensor-lens-ryan-vo) — Work in progress: tensor-lens-ryan-vo
 <!-- portfolio-projects:end -->
-
-## What to evaluate
-
-I use AI-assisted development. Useful evidence is in the implementation: working workflows, architecture decisions, reproducible tests, measured results, and explicit limitations. Repository READMEs should make these easy to inspect; repository count alone is not a measure of quality.
 
 ## Contact
 
