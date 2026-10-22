@@ -17,6 +17,7 @@ I'm building projects, learning through experiments, and contributing to open so
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **hugohe3/ppt-master** — [Fix SVG preview namespace prefix issue causing &#x27;corrupted or missing root &lt;svg&gt; element&#x27; error (#327)](https://github.com/hugohe3/ppt-master/pull/327)
 - **ifixai-ai/iFixAi** — [Fix P08 naive timestamp comparison TypeError — ensure _parse_timestamp returns timezone-aware UTC (#325)](https://github.com/ifixai-ai/iFixAi/pull/325)
 - **tester-army/e2e** — [fix(agent): classify a content-filter refusal as MODEL_REFUSED (#973)](https://github.com/tester-army/e2e/pull/973)
 - **akitaonrails/ai-memory** — [Fix stale Windows support claims and 3.0 unreleased label in comparison docs (#1376)](https://github.com/akitaonrails/ai-memory/pull/1376)
