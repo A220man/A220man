@@ -33,6 +33,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor studio ryan vo](https://github.com/A220man/tensor-studio-ryan-vo) — Work in progress: tensor-studio-ryan-vo
 - [sentinel console ryan vo](https://github.com/A220man/sentinel-console-ryan-vo) — Work in progress: sentinel-console-ryan-vo
 - [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Work in progress: release-readiness-board-ryan-vo
 - [atlas station ryan vo](https://github.com/A220man/atlas-station-ryan-vo) — Work in progress: atlas-station-ryan-vo
@@ -40,7 +41,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor pilot ryan vo](https://github.com/A220man/tensor-pilot-ryan-vo) — Work in progress: tensor-pilot-ryan-vo
 - [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
 - [vector lab ryan vo](https://github.com/A220man/vector-lab-ryan-vo) — Work in progress: vector-lab-ryan-vo
-- [prism station ryan vo](https://github.com/A220man/prism-station-ryan-vo) — Work in progress: prism-station-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
