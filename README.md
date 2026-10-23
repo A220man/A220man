@@ -17,6 +17,7 @@ I'm building projects, learning through experiments, and contributing to open so
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **OpenBMB/VoxCPM** — [Enable concurrent TTS request processing via KV cache batch support (#422)](https://github.com/OpenBMB/VoxCPM/pull/422)
 - **hugohe3/ppt-master** — [Fix SVG preview namespace prefix issue causing &#x27;corrupted or missing root &lt;svg&gt; element&#x27; error (#327)](https://github.com/hugohe3/ppt-master/pull/327)
 - **ifixai-ai/iFixAi** — [Fix P08 naive timestamp comparison TypeError — ensure _parse_timestamp returns timezone-aware UTC (#325)](https://github.com/ifixai-ai/iFixAi/pull/325)
 - **tester-army/e2e** — [fix(agent): classify a content-filter refusal as MODEL_REFUSED (#973)](https://github.com/tester-army/e2e/pull/973)
@@ -26,7 +27,13 @@ Fixes and improvements I’ve submitted to open-source projects.
 - **danyuchn/asd-ste100-skill** — [docs: add optional rewrite-fidelity check to Process step (#23)](https://github.com/danyuchn/asd-ste100-skill/pull/23)
 - **reconurge/flowsint** — [fix: match graph node hitboxes to rendered shapes and zoom (#239)](https://github.com/reconurge/flowsint/pull/239)
 - **breferrari/obsidian-mind** — [fix: honor camelCase Stop hook re-entry flags (#325)](https://github.com/breferrari/obsidian-mind/pull/325)
+
+<details>
+<summary>More contributions</summary>
+
 - **HunxByts/GhostTrack** — [Fix IP tracker map URL truncating float coordinates to integers (#162)](https://github.com/HunxByts/GhostTrack/pull/162)
+
+</details>
 
 <!-- portfolio-contributions:end -->
 
