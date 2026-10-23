@@ -33,6 +33,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus foundry ryan vo](https://github.com/A220man/nexus-foundry-ryan-vo) — Work in progress: nexus-foundry-ryan-vo
 - [axiom observatory 144 ryan vo](https://github.com/A220man/axiom-observatory-144-ryan-vo) — Work in progress: axiom-observatory-144-ryan-vo
 - [nexus observatory ryan vo](https://github.com/A220man/nexus-observatory-ryan-vo) — Work in progress: nexus-observatory-ryan-vo
 - [vector observatory 144 ryan vo](https://github.com/A220man/vector-observatory-144-ryan-vo) — Work in progress: vector-observatory-144-ryan-vo
@@ -40,7 +41,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon lens 144 ryan vo](https://github.com/A220man/beacon-lens-144-ryan-vo) — Work in progress: beacon-lens-144-ryan-vo
 - [cobalt lab ryan vo](https://github.com/A220man/cobalt-lab-ryan-vo) — Work in progress: cobalt-lab-ryan-vo
 - [prism hub 144 ryan vo](https://github.com/A220man/prism-hub-144-ryan-vo) — Work in progress: prism-hub-144-ryan-vo
-- [atlas engine ryan vo](https://github.com/A220man/atlas-engine-ryan-vo) — Work in progress: atlas-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
