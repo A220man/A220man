@@ -33,6 +33,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector studio 144 ryan vo](https://github.com/A220man/vector-studio-144-ryan-vo) — Work in progress: vector-studio-144-ryan-vo
 - [lumen studio ryan vo](https://github.com/A220man/lumen-studio-ryan-vo) — Work in progress: lumen-studio-ryan-vo
 - [lumen forge 144 ryan vo](https://github.com/A220man/lumen-forge-144-ryan-vo) — Work in progress: lumen-forge-144-ryan-vo
 - [nexus foundry ryan vo](https://github.com/A220man/nexus-foundry-ryan-vo) — Work in progress: nexus-foundry-ryan-vo
@@ -40,7 +41,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus observatory ryan vo](https://github.com/A220man/nexus-observatory-ryan-vo) — Work in progress: nexus-observatory-ryan-vo
 - [vector observatory 144 ryan vo](https://github.com/A220man/vector-observatory-144-ryan-vo) — Work in progress: vector-observatory-144-ryan-vo
 - [lumen workbench ryan vo](https://github.com/A220man/lumen-workbench-ryan-vo) — Work in progress: lumen-workbench-ryan-vo
-- [beacon lens 144 ryan vo](https://github.com/A220man/beacon-lens-144-ryan-vo) — Work in progress: beacon-lens-144-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
