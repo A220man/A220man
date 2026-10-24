@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector station 144 ryan vo](https://github.com/A220man/vector-station-144-ryan-vo) — Work in progress: vector-station-144-ryan-vo
 - [prism studio ryan vo](https://github.com/A220man/prism-studio-ryan-vo) — Work in progress: prism-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
