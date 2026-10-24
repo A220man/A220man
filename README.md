@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [axiom lens 144 ryan vo](https://github.com/A220man/axiom-lens-144-ryan-vo) — Work in progress: axiom-lens-144-ryan-vo
 - [tensor station ryan vo](https://github.com/A220man/tensor-station-ryan-vo) — Work in progress: tensor-station-ryan-vo
 - [nexus workbench 144 ryan vo](https://github.com/A220man/nexus-workbench-144-ryan-vo) — Work in progress: nexus-workbench-144-ryan-vo
 - [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [vector studio ryan vo](https://github.com/A220man/vector-studio-ryan-vo) — Work in progress: vector-studio-ryan-vo
 - [nexus engine 144 ryan vo](https://github.com/A220man/nexus-engine-144-ryan-vo) — Work in progress: nexus-engine-144-ryan-vo
 - [sentinel lens ryan vo](https://github.com/A220man/sentinel-lens-ryan-vo) — Work in progress: sentinel-lens-ryan-vo
-- [sentinel studio 144 ryan vo](https://github.com/A220man/sentinel-studio-144-ryan-vo) — Work in progress: sentinel-studio-144-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
