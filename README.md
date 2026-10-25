@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt pilot 144 ryan vo](https://github.com/A220man/cobalt-pilot-144-ryan-vo) — Work in progress: cobalt-pilot-144-ryan-vo
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Work in progress: annotation-agreement-studio-ryan-vo
 - [cobalt lab 144 ryan vo](https://github.com/A220man/cobalt-lab-144-ryan-vo) — Work in progress: cobalt-lab-144-ryan-vo
 - [sentinel studio ryan vo](https://github.com/A220man/sentinel-studio-ryan-vo) — Work in progress: sentinel-studio-ryan-vo
