@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Work in progress: knowledge-freshness-monitor-ryan-vo
 - [vector hub 144](https://github.com/A220man/vector-hub-144) — Work in progress: vector-hub-144
 - [tensor engine ryan vo](https://github.com/A220man/tensor-engine-ryan-vo) — Work in progress: tensor-engine-ryan-vo
 - [axiom hub 144 ryan vo](https://github.com/A220man/axiom-hub-144-ryan-vo) — Work in progress: axiom-hub-144-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon console ryan vo](https://github.com/A220man/beacon-console-ryan-vo) — Work in progress: beacon-console-ryan-vo
 - [nexus engine 146](https://github.com/A220man/nexus-engine-146) — Work in progress: nexus-engine-146
 - [tensor console ryan vo](https://github.com/A220man/tensor-console-ryan-vo) — Work in progress: tensor-console-ryan-vo
-- [prism lab 145](https://github.com/A220man/prism-lab-145) — Work in progress: prism-lab-145
 <!-- portfolio-projects:end -->
 
 ## Contact
