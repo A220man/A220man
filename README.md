@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit station ryan vo](https://github.com/A220man/orbit-station-ryan-vo) — Work in progress: orbit-station-ryan-vo
 - [prism hub 146](https://github.com/A220man/prism-hub-146) — Work in progress: prism-hub-146
 - [prism observatory ryan vo](https://github.com/A220man/prism-observatory-ryan-vo) — Work in progress: prism-observatory-ryan-vo
 - [atlas observatory 144](https://github.com/A220man/atlas-observatory-144) — Work in progress: atlas-observatory-144
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [lumen foundry ryan vo](https://github.com/A220man/lumen-foundry-ryan-vo) — Work in progress: lumen-foundry-ryan-vo
 - [orbit engine 145 ryan vo](https://github.com/A220man/orbit-engine-145-ryan-vo) — Work in progress: orbit-engine-145-ryan-vo
 - [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Work in progress: image-quality-observatory-ryan-vo
-- [prism foundry ryan vo](https://github.com/A220man/prism-foundry-ryan-vo) — Work in progress: prism-foundry-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
