@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit engine 145 ryan vo](https://github.com/A220man/orbit-engine-145-ryan-vo) — Work in progress: orbit-engine-145-ryan-vo
 - [image quality observatory ryan vo](https://github.com/A220man/image-quality-observatory-ryan-vo) — Work in progress: image-quality-observatory-ryan-vo
 - [prism foundry ryan vo](https://github.com/A220man/prism-foundry-ryan-vo) — Work in progress: prism-foundry-ryan-vo
 - [vector lens ryan vo](https://github.com/A220man/vector-lens-ryan-vo) — Work in progress: vector-lens-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism pilot ryan vo](https://github.com/A220man/prism-pilot-ryan-vo) — Work in progress: prism-pilot-ryan-vo
 - [signal forge ryan vo](https://github.com/A220man/signal-forge-ryan-vo) — Work in progress: signal-forge-ryan-vo
 - [orbit foundry ryan vo](https://github.com/A220man/orbit-foundry-ryan-vo) — Work in progress: orbit-foundry-ryan-vo
-- [cobalt pilot ryan vo](https://github.com/A220man/cobalt-pilot-ryan-vo) — Work in progress: cobalt-pilot-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
