@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [atlas observatory 144](https://github.com/A220man/atlas-observatory-144) — Work in progress: atlas-observatory-144
 - [axiom pilot ryan vo](https://github.com/A220man/axiom-pilot-ryan-vo) — Work in progress: axiom-pilot-ryan-vo
 - [lumen foundry ryan vo](https://github.com/A220man/lumen-foundry-ryan-vo) — Work in progress: lumen-foundry-ryan-vo
 - [orbit engine 145 ryan vo](https://github.com/A220man/orbit-engine-145-ryan-vo) — Work in progress: orbit-engine-145-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism foundry ryan vo](https://github.com/A220man/prism-foundry-ryan-vo) — Work in progress: prism-foundry-ryan-vo
 - [vector lens ryan vo](https://github.com/A220man/vector-lens-ryan-vo) — Work in progress: vector-lens-ryan-vo
 - [vector forge 145 ryan vo](https://github.com/A220man/vector-forge-145-ryan-vo) — Work in progress: vector-forge-145-ryan-vo
-- [prism pilot ryan vo](https://github.com/A220man/prism-pilot-ryan-vo) — Work in progress: prism-pilot-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
