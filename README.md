@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus console ryan vo](https://github.com/A220man/nexus-console-ryan-vo) — Work in progress: nexus-console-ryan-vo
 - [cobalt engine 148](https://github.com/A220man/cobalt-engine-148) — Work in progress: cobalt-engine-148
 - [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Work in progress: knowledge-freshness-monitor-ryan-vo
 - [vector hub 144](https://github.com/A220man/vector-hub-144) — Work in progress: vector-hub-144
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [axiom hub 144 ryan vo](https://github.com/A220man/axiom-hub-144-ryan-vo) — Work in progress: axiom-hub-144-ryan-vo
 - [cobalt hub 146](https://github.com/A220man/cobalt-hub-146) — Work in progress: cobalt-hub-146
 - [beacon console ryan vo](https://github.com/A220man/beacon-console-ryan-vo) — Work in progress: beacon-console-ryan-vo
-- [nexus engine 146](https://github.com/A220man/nexus-engine-146) — Work in progress: nexus-engine-146
 <!-- portfolio-projects:end -->
 
 ## Contact
