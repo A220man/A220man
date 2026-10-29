@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor lens ryan vo](https://github.com/A220man/tensor-lens-ryan-vo) — Work in progress: tensor-lens-ryan-vo
 - [axiom studio 145](https://github.com/A220man/axiom-studio-145) — Work in progress: axiom-studio-145
 - [signal engine ryan vo](https://github.com/A220man/signal-engine-ryan-vo) — Work in progress: signal-engine-ryan-vo
 - [beacon observatory 144](https://github.com/A220man/beacon-observatory-144) — Work in progress: beacon-observatory-144
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism console ryan vo](https://github.com/A220man/prism-console-ryan-vo) — Work in progress: prism-console-ryan-vo
 - [nexus console ryan vo](https://github.com/A220man/nexus-console-ryan-vo) — Work in progress: nexus-console-ryan-vo
 - [cobalt engine 148](https://github.com/A220man/cobalt-engine-148) — Work in progress: cobalt-engine-148
-- [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Work in progress: knowledge-freshness-monitor-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
