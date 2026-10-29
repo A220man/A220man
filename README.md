@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit console ryan vo](https://github.com/A220man/orbit-console-ryan-vo) — Work in progress: orbit-console-ryan-vo
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Work in progress: human-approval-console-ryan-vo
 - [prism engine ryan vo](https://github.com/A220man/prism-engine-ryan-vo) — Work in progress: prism-engine-ryan-vo
 - [atlas lens 144](https://github.com/A220man/atlas-lens-144) — Work in progress: atlas-lens-144
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [signal lab ryan vo](https://github.com/A220man/signal-lab-ryan-vo) — Work in progress: signal-lab-ryan-vo
 - [beacon foundry ryan vo](https://github.com/A220man/beacon-foundry-ryan-vo) — Work in progress: beacon-foundry-ryan-vo
 - [axiom hub ryan vo](https://github.com/A220man/axiom-hub-ryan-vo) — Work in progress: axiom-hub-ryan-vo
-- [tensor lab 145](https://github.com/A220man/tensor-lab-145) — Work in progress: tensor-lab-145
 <!-- portfolio-projects:end -->
 
 ## Contact
