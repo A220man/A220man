@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt pilot ryan vo](https://github.com/A220man/cobalt-pilot-ryan-vo) — Work in progress: cobalt-pilot-ryan-vo
 - [sentinel engine ryan vo](https://github.com/A220man/sentinel-engine-ryan-vo) — Work in progress: sentinel-engine-ryan-vo
 - [tensor lens ryan vo](https://github.com/A220man/tensor-lens-ryan-vo) — Work in progress: tensor-lens-ryan-vo
 - [axiom studio 145](https://github.com/A220man/axiom-studio-145) — Work in progress: axiom-studio-145
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon observatory 144](https://github.com/A220man/beacon-observatory-144) — Work in progress: beacon-observatory-144
 - [vector foundry 144](https://github.com/A220man/vector-foundry-144) — Work in progress: vector-foundry-144
 - [prism console ryan vo](https://github.com/A220man/prism-console-ryan-vo) — Work in progress: prism-console-ryan-vo
-- [nexus console ryan vo](https://github.com/A220man/nexus-console-ryan-vo) — Work in progress: nexus-console-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
