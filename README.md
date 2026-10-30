@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen engine ryan vo](https://github.com/A220man/lumen-engine-ryan-vo) — Work in progress: lumen-engine-ryan-vo
 - [prism hub ryan vo](https://github.com/A220man/prism-hub-ryan-vo) — Work in progress: prism-hub-ryan-vo
 - [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
 - [orbit hub ryan vo](https://github.com/A220man/orbit-hub-ryan-vo) — Work in progress: orbit-hub-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor hub ryan vo](https://github.com/A220man/tensor-hub-ryan-vo) — Work in progress: tensor-hub-ryan-vo
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Work in progress: feature-freshness-monitor-ryan-vo
 - [lumen lab ryan vo](https://github.com/A220man/lumen-lab-ryan-vo) — Work in progress: lumen-lab-ryan-vo
-- [beacon station ryan vo](https://github.com/A220man/beacon-station-ryan-vo) — Work in progress: beacon-station-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
