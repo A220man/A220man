@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon station ryan vo](https://github.com/A220man/beacon-station-ryan-vo) — Work in progress: beacon-station-ryan-vo
 - [sentinel lab ryan vo](https://github.com/A220man/sentinel-lab-ryan-vo) — Work in progress: sentinel-lab-ryan-vo
 - [atlas lens ryan vo](https://github.com/A220man/atlas-lens-ryan-vo) — Work in progress: atlas-lens-ryan-vo
 - [cobalt console ryan vo](https://github.com/A220man/cobalt-console-ryan-vo) — Work in progress: cobalt-console-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel console ryan vo](https://github.com/A220man/sentinel-console-ryan-vo) — Work in progress: sentinel-console-ryan-vo
 - [release readiness board ryan vo](https://github.com/A220man/release-readiness-board-ryan-vo) — Work in progress: release-readiness-board-ryan-vo
 - [atlas station ryan vo](https://github.com/A220man/atlas-station-ryan-vo) — Work in progress: atlas-station-ryan-vo
-- [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
