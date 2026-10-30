@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [atlas station ryan vo](https://github.com/A220man/atlas-station-ryan-vo) — Work in progress: atlas-station-ryan-vo
 - [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
 - [tensor pilot ryan vo](https://github.com/A220man/tensor-pilot-ryan-vo) — Work in progress: tensor-pilot-ryan-vo
 - [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism station ryan vo](https://github.com/A220man/prism-station-ryan-vo) — Work in progress: prism-station-ryan-vo
 - [orbit console ryan vo](https://github.com/A220man/orbit-console-ryan-vo) — Work in progress: orbit-console-ryan-vo
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Work in progress: human-approval-console-ryan-vo
-- [prism engine ryan vo](https://github.com/A220man/prism-engine-ryan-vo) — Work in progress: prism-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
