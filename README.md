@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal pilot ryan vo](https://github.com/A220man/signal-pilot-ryan-vo) — Work in progress: signal-pilot-ryan-vo
 - [orbit pilot ryan vo](https://github.com/A220man/orbit-pilot-ryan-vo) — Work in progress: orbit-pilot-ryan-vo
 - [multi cloud inventory diff ryan vo](https://github.com/A220man/multi-cloud-inventory-diff-ryan-vo) — Work in progress: multi-cloud-inventory-diff-ryan-vo
 - [lumen hub ryan vo](https://github.com/A220man/lumen-hub-ryan-vo) — Work in progress: lumen-hub-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism hub ryan vo](https://github.com/A220man/prism-hub-ryan-vo) — Work in progress: prism-hub-ryan-vo
 - [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
 - [orbit hub ryan vo](https://github.com/A220man/orbit-hub-ryan-vo) — Work in progress: orbit-hub-ryan-vo
-- [atlas observatory ryan vo](https://github.com/A220man/atlas-observatory-ryan-vo) — Work in progress: atlas-observatory-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
