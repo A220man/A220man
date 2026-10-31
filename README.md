@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor pilot 144 ryan vo](https://github.com/A220man/tensor-pilot-144-ryan-vo) — Work in progress: tensor-pilot-144-ryan-vo
 - [nexus lab ryan vo](https://github.com/A220man/nexus-lab-ryan-vo) — Work in progress: nexus-lab-ryan-vo
 - [tensor lab 144 ryan vo](https://github.com/A220man/tensor-lab-144-ryan-vo) — Work in progress: tensor-lab-144-ryan-vo
 - [signal observatory ryan vo](https://github.com/A220man/signal-observatory-ryan-vo) — Work in progress: signal-observatory-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon lens ryan vo](https://github.com/A220man/beacon-lens-ryan-vo) — Work in progress: beacon-lens-ryan-vo
 - [vector studio 144 ryan vo](https://github.com/A220man/vector-studio-144-ryan-vo) — Work in progress: vector-studio-144-ryan-vo
 - [lumen studio ryan vo](https://github.com/A220man/lumen-studio-ryan-vo) — Work in progress: lumen-studio-ryan-vo
-- [lumen forge 144 ryan vo](https://github.com/A220man/lumen-forge-144-ryan-vo) — Work in progress: lumen-forge-144-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
