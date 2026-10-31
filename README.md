@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon hub 144 ryan vo](https://github.com/A220man/beacon-hub-144-ryan-vo) — Work in progress: beacon-hub-144-ryan-vo
 - [cobalt workbench 145 ryan vo](https://github.com/A220man/cobalt-workbench-145-ryan-vo) — Work in progress: cobalt-workbench-145-ryan-vo
 - [vector hub ryan vo](https://github.com/A220man/vector-hub-ryan-vo) — Work in progress: vector-hub-ryan-vo
 - [tensor pilot 144 ryan vo](https://github.com/A220man/tensor-pilot-144-ryan-vo) — Work in progress: tensor-pilot-144-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor lab 144 ryan vo](https://github.com/A220man/tensor-lab-144-ryan-vo) — Work in progress: tensor-lab-144-ryan-vo
 - [signal observatory ryan vo](https://github.com/A220man/signal-observatory-ryan-vo) — Work in progress: signal-observatory-ryan-vo
 - [lumen lab 144 ryan vo](https://github.com/A220man/lumen-lab-144-ryan-vo) — Work in progress: lumen-lab-144-ryan-vo
-- [beacon lens ryan vo](https://github.com/A220man/beacon-lens-ryan-vo) — Work in progress: beacon-lens-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
