@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism pilot ryan vo](https://github.com/A220man/prism-pilot-ryan-vo) — Work in progress: prism-pilot-ryan-vo
 - [signal forge ryan vo](https://github.com/A220man/signal-forge-ryan-vo) — Work in progress: signal-forge-ryan-vo
 - [orbit foundry ryan vo](https://github.com/A220man/orbit-foundry-ryan-vo) — Work in progress: orbit-foundry-ryan-vo
 - [tensor engine 144 ryan vo](https://github.com/A220man/tensor-engine-144-ryan-vo) — Work in progress: tensor-engine-144-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt pilot 144 ryan vo](https://github.com/A220man/cobalt-pilot-144-ryan-vo) — Work in progress: cobalt-pilot-144-ryan-vo
 - [annotation agreement studio ryan vo](https://github.com/A220man/annotation-agreement-studio-ryan-vo) — Work in progress: annotation-agreement-studio-ryan-vo
 - [cobalt lab 144 ryan vo](https://github.com/A220man/cobalt-lab-144-ryan-vo) — Work in progress: cobalt-lab-144-ryan-vo
-- [sentinel studio ryan vo](https://github.com/A220man/sentinel-studio-ryan-vo) — Work in progress: sentinel-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
