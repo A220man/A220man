@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon console ryan vo](https://github.com/A220man/beacon-console-ryan-vo) — Work in progress: beacon-console-ryan-vo
 - [vector station 144 ryan vo](https://github.com/A220man/vector-station-144-ryan-vo) — Work in progress: vector-station-144-ryan-vo
 - [nexus engine 146](https://github.com/A220man/nexus-engine-146) — Work in progress: nexus-engine-146
 - [tensor console ryan vo](https://github.com/A220man/tensor-console-ryan-vo) — Work in progress: tensor-console-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit station ryan vo](https://github.com/A220man/orbit-station-ryan-vo) — Work in progress: orbit-station-ryan-vo
 - [tensor station 144](https://github.com/A220man/tensor-station-144) — Work in progress: tensor-station-144
 - [prism hub 146](https://github.com/A220man/prism-hub-146) — Work in progress: prism-hub-146
-- [prism observatory ryan vo](https://github.com/A220man/prism-observatory-ryan-vo) — Work in progress: prism-observatory-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
