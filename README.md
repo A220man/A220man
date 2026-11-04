@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector studio ryan vo](https://github.com/A220man/vector-studio-ryan-vo) — Work in progress: vector-studio-ryan-vo
 - [nexus engine 144 ryan vo](https://github.com/A220man/nexus-engine-144-ryan-vo) — Work in progress: nexus-engine-144-ryan-vo
 - [sentinel lens ryan vo](https://github.com/A220man/sentinel-lens-ryan-vo) — Work in progress: sentinel-lens-ryan-vo
 - [sentinel studio 144 ryan vo](https://github.com/A220man/sentinel-studio-144-ryan-vo) — Work in progress: sentinel-studio-144-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism studio 144 ryan vo](https://github.com/A220man/prism-studio-144-ryan-vo) — Work in progress: prism-studio-144-ryan-vo
 - [signal station ryan vo](https://github.com/A220man/signal-station-ryan-vo) — Work in progress: signal-station-ryan-vo
 - [beacon hub 144 ryan vo](https://github.com/A220man/beacon-hub-144-ryan-vo) — Work in progress: beacon-hub-144-ryan-vo
-- [cobalt workbench 145 ryan vo](https://github.com/A220man/cobalt-workbench-145-ryan-vo) — Work in progress: cobalt-workbench-145-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
