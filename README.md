@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon pilot 144 ryan vo](https://github.com/A220man/beacon-pilot-144-ryan-vo) — Work in progress: beacon-pilot-144-ryan-vo
 - [beacon lab ryan vo](https://github.com/A220man/beacon-lab-ryan-vo) — Work in progress: beacon-lab-ryan-vo
 - [orbit observatory 144 ryan vo](https://github.com/A220man/orbit-observatory-144-ryan-vo) — Work in progress: orbit-observatory-144-ryan-vo
 - [atlas hub ryan vo](https://github.com/A220man/atlas-hub-ryan-vo) — Work in progress: atlas-hub-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [signal pilot ryan vo](https://github.com/A220man/signal-pilot-ryan-vo) — Work in progress: signal-pilot-ryan-vo
 - [orbit pilot ryan vo](https://github.com/A220man/orbit-pilot-ryan-vo) — Work in progress: orbit-pilot-ryan-vo
 - [multi cloud inventory diff ryan vo](https://github.com/A220man/multi-cloud-inventory-diff-ryan-vo) — Work in progress: multi-cloud-inventory-diff-ryan-vo
-- [atlas lens 144](https://github.com/A220man/atlas-lens-144) — Work in progress: atlas-lens-144
 <!-- portfolio-projects:end -->
 
 ## Contact
