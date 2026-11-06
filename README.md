@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit hub ryan vo](https://github.com/A220man/orbit-hub-ryan-vo) — Work in progress: orbit-hub-ryan-vo
 - [atlas observatory ryan vo](https://github.com/A220man/atlas-observatory-ryan-vo) — Work in progress: atlas-observatory-ryan-vo
 - [tensor hub ryan vo](https://github.com/A220man/tensor-hub-ryan-vo) — Work in progress: tensor-hub-ryan-vo
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Work in progress: feature-freshness-monitor-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon station ryan vo](https://github.com/A220man/beacon-station-ryan-vo) — Work in progress: beacon-station-ryan-vo
 - [sentinel lab ryan vo](https://github.com/A220man/sentinel-lab-ryan-vo) — Work in progress: sentinel-lab-ryan-vo
 - [atlas lens ryan vo](https://github.com/A220man/atlas-lens-ryan-vo) — Work in progress: atlas-lens-ryan-vo
-- [cobalt console ryan vo](https://github.com/A220man/cobalt-console-ryan-vo) — Work in progress: cobalt-console-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
