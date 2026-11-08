@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal engine ryan vo](https://github.com/A220man/signal-engine-ryan-vo) — Work in progress: signal-engine-ryan-vo
 - [beacon observatory 144](https://github.com/A220man/beacon-observatory-144) — Work in progress: beacon-observatory-144
 - [vector foundry 144](https://github.com/A220man/vector-foundry-144) — Work in progress: vector-foundry-144
 - [prism console ryan vo](https://github.com/A220man/prism-console-ryan-vo) — Work in progress: prism-console-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt engine 148](https://github.com/A220man/cobalt-engine-148) — Work in progress: cobalt-engine-148
 - [knowledge freshness monitor ryan vo](https://github.com/A220man/knowledge-freshness-monitor-ryan-vo) — Work in progress: knowledge-freshness-monitor-ryan-vo
 - [vector hub 144](https://github.com/A220man/vector-hub-144) — Work in progress: vector-hub-144
-- [tensor engine ryan vo](https://github.com/A220man/tensor-engine-ryan-vo) — Work in progress: tensor-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
