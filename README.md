@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [experiment comparison hub ryan vo](https://github.com/A220man/experiment-comparison-hub-ryan-vo) — Work in progress: experiment-comparison-hub-ryan-vo
 - [signal lens 144 ryan vo](https://github.com/A220man/signal-lens-144-ryan-vo) — Work in progress: signal-lens-144-ryan-vo
 - [orbit workbench ryan vo](https://github.com/A220man/orbit-workbench-ryan-vo) — Work in progress: orbit-workbench-ryan-vo
 - [axiom lens 144 ryan vo](https://github.com/A220man/axiom-lens-144-ryan-vo) — Work in progress: axiom-lens-144-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus workbench 144 ryan vo](https://github.com/A220man/nexus-workbench-144-ryan-vo) — Work in progress: nexus-workbench-144-ryan-vo
 - [vector station ryan vo](https://github.com/A220man/vector-station-ryan-vo) — Work in progress: vector-station-ryan-vo
 - [sentinel workbench 144 ryan vo](https://github.com/A220man/sentinel-workbench-144-ryan-vo) — Work in progress: sentinel-workbench-144-ryan-vo
-- [vector studio ryan vo](https://github.com/A220man/vector-studio-ryan-vo) — Work in progress: vector-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
