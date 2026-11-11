@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [sentinel engine ryan vo](https://github.com/A220man/sentinel-engine-ryan-vo) — Work in progress: sentinel-engine-ryan-vo
 - [sentinel studio 145](https://github.com/A220man/sentinel-studio-145) — Work in progress: sentinel-studio-145
 - [tensor lens ryan vo](https://github.com/A220man/tensor-lens-ryan-vo) — Work in progress: tensor-lens-ryan-vo
 - [atlas observatory 145](https://github.com/A220man/atlas-observatory-145) — Work in progress: atlas-observatory-145
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [signal pilot 144](https://github.com/A220man/signal-pilot-144) — Work in progress: signal-pilot-144
 - [axiom hub ryan vo](https://github.com/A220man/axiom-hub-ryan-vo) — Work in progress: axiom-hub-ryan-vo
 - [axiom studio 145](https://github.com/A220man/axiom-studio-145) — Work in progress: axiom-studio-145
-- [beacon observatory 144](https://github.com/A220man/beacon-observatory-144) — Work in progress: beacon-observatory-144
 <!-- portfolio-projects:end -->
 
 ## Contact
