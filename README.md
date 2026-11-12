@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen observatory 144](https://github.com/A220man/lumen-observatory-144) — Work in progress: lumen-observatory-144
 - [signal engine ryan vo](https://github.com/A220man/signal-engine-ryan-vo) — Work in progress: signal-engine-ryan-vo
 - [cobalt engine ryan vo](https://github.com/A220man/cobalt-engine-ryan-vo) — Work in progress: cobalt-engine-ryan-vo
 - [prism forge 144](https://github.com/A220man/prism-forge-144) — Work in progress: prism-forge-144
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus console 145](https://github.com/A220man/nexus-console-145) — Work in progress: nexus-console-145
 - [axiom station ryan vo](https://github.com/A220man/axiom-station-ryan-vo) — Work in progress: axiom-station-ryan-vo
 - [axiom forge ryan vo](https://github.com/A220man/axiom-forge-ryan-vo) — Work in progress: axiom-forge-ryan-vo
-- [tensor pilot 145](https://github.com/A220man/tensor-pilot-145) — Work in progress: tensor-pilot-145
 <!-- portfolio-projects:end -->
 
 ## Contact
