@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism forge 144](https://github.com/A220man/prism-forge-144) — Work in progress: prism-forge-144
 - [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Work in progress: incident-timeline-studio-ryan-vo
 - [nexus console 145](https://github.com/A220man/nexus-console-145) — Work in progress: nexus-console-145
 - [axiom station ryan vo](https://github.com/A220man/axiom-station-ryan-vo) — Work in progress: axiom-station-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor pilot 145](https://github.com/A220man/tensor-pilot-145) — Work in progress: tensor-pilot-145
 - [sentinel engine ryan vo](https://github.com/A220man/sentinel-engine-ryan-vo) — Work in progress: sentinel-engine-ryan-vo
 - [sentinel studio 145](https://github.com/A220man/sentinel-studio-145) — Work in progress: sentinel-studio-145
-- [tensor lens ryan vo](https://github.com/A220man/tensor-lens-ryan-vo) — Work in progress: tensor-lens-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
