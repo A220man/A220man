@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector station 144 ryan vo](https://github.com/A220man/vector-station-144-ryan-vo) — Work in progress: vector-station-144-ryan-vo
 - [lumen station 145](https://github.com/A220man/lumen-station-145) — Work in progress: lumen-station-145
 - [axiom hub 144 ryan vo](https://github.com/A220man/axiom-hub-144-ryan-vo) — Work in progress: axiom-hub-144-ryan-vo
 - [lumen forge ryan vo](https://github.com/A220man/lumen-forge-ryan-vo) — Work in progress: lumen-forge-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [signal engine ryan vo](https://github.com/A220man/signal-engine-ryan-vo) — Work in progress: signal-engine-ryan-vo
 - [cobalt engine ryan vo](https://github.com/A220man/cobalt-engine-ryan-vo) — Work in progress: cobalt-engine-ryan-vo
 - [prism forge 144](https://github.com/A220man/prism-forge-144) — Work in progress: prism-forge-144
-- [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Work in progress: incident-timeline-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
