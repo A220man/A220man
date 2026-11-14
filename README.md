@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector foundry 144](https://github.com/A220man/vector-foundry-144) — Work in progress: vector-foundry-144
 - [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
 - [tensor pilot ryan vo](https://github.com/A220man/tensor-pilot-ryan-vo) — Work in progress: tensor-pilot-ryan-vo
 - [cobalt pilot ryan vo](https://github.com/A220man/cobalt-pilot-ryan-vo) — Work in progress: cobalt-pilot-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [vector lab ryan vo](https://github.com/A220man/vector-lab-ryan-vo) — Work in progress: vector-lab-ryan-vo
 - [prism station ryan vo](https://github.com/A220man/prism-station-ryan-vo) — Work in progress: prism-station-ryan-vo
 - [orbit console ryan vo](https://github.com/A220man/orbit-console-ryan-vo) — Work in progress: orbit-console-ryan-vo
-- [prism engine ryan vo](https://github.com/A220man/prism-engine-ryan-vo) — Work in progress: prism-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
