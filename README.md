@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [sentinel foundry 145](https://github.com/A220man/sentinel-foundry-145) — Work in progress: sentinel-foundry-145
 - [cobalt workbench 147](https://github.com/A220man/cobalt-workbench-147) — Work in progress: cobalt-workbench-147
 - [vector station 144 ryan vo](https://github.com/A220man/vector-station-144-ryan-vo) — Work in progress: vector-station-144-ryan-vo
 - [lumen station 145](https://github.com/A220man/lumen-station-145) — Work in progress: lumen-station-145
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [lumen forge ryan vo](https://github.com/A220man/lumen-forge-ryan-vo) — Work in progress: lumen-forge-ryan-vo
 - [lumen observatory 144](https://github.com/A220man/lumen-observatory-144) — Work in progress: lumen-observatory-144
 - [signal engine ryan vo](https://github.com/A220man/signal-engine-ryan-vo) — Work in progress: signal-engine-ryan-vo
-- [cobalt engine ryan vo](https://github.com/A220man/cobalt-engine-ryan-vo) — Work in progress: cobalt-engine-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
