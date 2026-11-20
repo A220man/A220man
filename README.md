@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal lab ryan vo](https://github.com/A220man/signal-lab-ryan-vo) — Work in progress: signal-lab-ryan-vo
 - [beacon foundry ryan vo](https://github.com/A220man/beacon-foundry-ryan-vo) — Work in progress: beacon-foundry-ryan-vo
 - [sentinel foundry 144](https://github.com/A220man/sentinel-foundry-144) — Work in progress: sentinel-foundry-144
 - [tensor lens 147](https://github.com/A220man/tensor-lens-147) — Work in progress: tensor-lens-147
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [vector pilot 145](https://github.com/A220man/vector-pilot-145) — Work in progress: vector-pilot-145
 - [tensor lab 145](https://github.com/A220man/tensor-lab-145) — Work in progress: tensor-lab-145
 - [cobalt station 145](https://github.com/A220man/cobalt-station-145) — Work in progress: cobalt-station-145
-- [axiom console 145](https://github.com/A220man/axiom-console-145) — Work in progress: axiom-console-145
 <!-- portfolio-projects:end -->
 
 ## Contact
