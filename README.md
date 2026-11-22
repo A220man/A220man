@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism studio 144 ryan vo](https://github.com/A220man/prism-studio-144-ryan-vo) — Work in progress: prism-studio-144-ryan-vo
 - [signal station ryan vo](https://github.com/A220man/signal-station-ryan-vo) — Work in progress: signal-station-ryan-vo
 - [beacon hub 144 ryan vo](https://github.com/A220man/beacon-hub-144-ryan-vo) — Work in progress: beacon-hub-144-ryan-vo
 - [cobalt workbench 145 ryan vo](https://github.com/A220man/cobalt-workbench-145-ryan-vo) — Work in progress: cobalt-workbench-145-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor pilot 144 ryan vo](https://github.com/A220man/tensor-pilot-144-ryan-vo) — Work in progress: tensor-pilot-144-ryan-vo
 - [nexus lab ryan vo](https://github.com/A220man/nexus-lab-ryan-vo) — Work in progress: nexus-lab-ryan-vo
 - [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Work in progress: human-approval-console-ryan-vo
-- [tensor lab 144 ryan vo](https://github.com/A220man/tensor-lab-144-ryan-vo) — Work in progress: tensor-lab-144-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
