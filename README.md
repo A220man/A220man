@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor engine 144 ryan vo](https://github.com/A220man/tensor-engine-144-ryan-vo) — Work in progress: tensor-engine-144-ryan-vo
 - [signal observatory ryan vo](https://github.com/A220man/signal-observatory-ryan-vo) — Work in progress: signal-observatory-ryan-vo
 - [lumen lab 144 ryan vo](https://github.com/A220man/lumen-lab-144-ryan-vo) — Work in progress: lumen-lab-144-ryan-vo
 - [beacon lens ryan vo](https://github.com/A220man/beacon-lens-ryan-vo) — Work in progress: beacon-lens-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [axiom pilot 144](https://github.com/A220man/axiom-pilot-144) — Work in progress: axiom-pilot-144
 - [lumen studio ryan vo](https://github.com/A220man/lumen-studio-ryan-vo) — Work in progress: lumen-studio-ryan-vo
 - [lumen forge 144 ryan vo](https://github.com/A220man/lumen-forge-144-ryan-vo) — Work in progress: lumen-forge-144-ryan-vo
-- [cobalt foundry 147](https://github.com/A220man/cobalt-foundry-147) — Work in progress: cobalt-foundry-147
 <!-- portfolio-projects:end -->
 
 ## Contact
