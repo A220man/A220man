@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector station 144 ryan vo](https://github.com/A220man/vector-station-144-ryan-vo) — Work in progress: vector-station-144-ryan-vo
 - [sentinel console ryan vo](https://github.com/A220man/sentinel-console-ryan-vo) — Work in progress: sentinel-console-ryan-vo
 - [atlas station ryan vo](https://github.com/A220man/atlas-station-ryan-vo) — Work in progress: atlas-station-ryan-vo
 - [vector foundry 144](https://github.com/A220man/vector-foundry-144) — Work in progress: vector-foundry-144
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon foundry 145](https://github.com/A220man/beacon-foundry-145) — Work in progress: beacon-foundry-145
 - [tensor pilot ryan vo](https://github.com/A220man/tensor-pilot-ryan-vo) — Work in progress: tensor-pilot-ryan-vo
 - [vector hub ryan vo](https://github.com/A220man/vector-hub-ryan-vo) — Work in progress: vector-hub-ryan-vo
-- [cobalt pilot ryan vo](https://github.com/A220man/cobalt-pilot-ryan-vo) — Work in progress: cobalt-pilot-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
