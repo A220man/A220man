@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal workbench ryan vo](https://github.com/A220man/signal-workbench-ryan-vo) — Work in progress: signal-workbench-ryan-vo
 - [prism forge 144](https://github.com/A220man/prism-forge-144) — Work in progress: prism-forge-144
 - [orbit hub ryan vo](https://github.com/A220man/orbit-hub-ryan-vo) — Work in progress: orbit-hub-ryan-vo
 - [atlas observatory ryan vo](https://github.com/A220man/atlas-observatory-ryan-vo) — Work in progress: atlas-observatory-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [feature freshness monitor ryan vo](https://github.com/A220man/feature-freshness-monitor-ryan-vo) — Work in progress: feature-freshness-monitor-ryan-vo
 - [incident timeline studio ryan vo](https://github.com/A220man/incident-timeline-studio-ryan-vo) — Work in progress: incident-timeline-studio-ryan-vo
 - [cobalt console 144](https://github.com/A220man/cobalt-console-144) — Work in progress: cobalt-console-144
-- [lumen lab ryan vo](https://github.com/A220man/lumen-lab-ryan-vo) — Work in progress: lumen-lab-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
