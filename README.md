@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [human approval console ryan vo](https://github.com/A220man/human-approval-console-ryan-vo) — Work in progress: human-approval-console-ryan-vo
 - [tensor lab 144 ryan vo](https://github.com/A220man/tensor-lab-144-ryan-vo) — Work in progress: tensor-lab-144-ryan-vo
 - [tensor engine 144 ryan vo](https://github.com/A220man/tensor-engine-144-ryan-vo) — Work in progress: tensor-engine-144-ryan-vo
 - [signal observatory ryan vo](https://github.com/A220man/signal-observatory-ryan-vo) — Work in progress: signal-observatory-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon lens ryan vo](https://github.com/A220man/beacon-lens-ryan-vo) — Work in progress: beacon-lens-ryan-vo
 - [vector studio 144 ryan vo](https://github.com/A220man/vector-studio-144-ryan-vo) — Work in progress: vector-studio-144-ryan-vo
 - [axiom pilot 144](https://github.com/A220man/axiom-pilot-144) — Work in progress: axiom-pilot-144
-- [lumen studio ryan vo](https://github.com/A220man/lumen-studio-ryan-vo) — Work in progress: lumen-studio-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
