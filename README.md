@@ -40,6 +40,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon workbench ryan vo](https://github.com/A220man/beacon-workbench-ryan-vo) — Work in progress: beacon-workbench-ryan-vo
 - [beacon foundry 145](https://github.com/A220man/beacon-foundry-145) — Work in progress: beacon-foundry-145
 - [tensor pilot ryan vo](https://github.com/A220man/tensor-pilot-ryan-vo) — Work in progress: tensor-pilot-ryan-vo
 - [vector hub ryan vo](https://github.com/A220man/vector-hub-ryan-vo) — Work in progress: vector-hub-ryan-vo
@@ -47,7 +48,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus engine ryan vo](https://github.com/A220man/nexus-engine-ryan-vo) — Work in progress: nexus-engine-ryan-vo
 - [orbit studio 146](https://github.com/A220man/orbit-studio-146) — Work in progress: orbit-studio-146
 - [axiom forge ryan vo](https://github.com/A220man/axiom-forge-ryan-vo) — Work in progress: axiom-forge-ryan-vo
-- [vector lab ryan vo](https://github.com/A220man/vector-lab-ryan-vo) — Work in progress: vector-lab-ryan-vo
 <!-- portfolio-projects:end -->
 
 ## Contact
